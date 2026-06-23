@@ -1,0 +1,271 @@
+Academic_Year,Month,Month_Num,Year,Employee_Name,Designation,Department,Teaching_Style,Total_Days,Present_Days,CL,LWP,LOP,Early_Mark,Late_Mark,Attendance_Pct,Punctuality_Flag,Basic_Salary,Per_Day_Salary,LWP_Deduction,Net_Salary_Payable,Performance_Score,Performance_Label
+2025-26,January,1,2026,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,January,1,2026,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,January,1,2026,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,28.5,2.0,0.5,0.0,1.0,0.0,91.94,At Risk,19000,612.9,306.45,18693.55,3,Average
+2025-26,January,1,2026,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,January,1,2026,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,January,1,2026,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,27.5,2.5,1.0,0.0,0.0,0.0,88.71,Good,20000,645.16,645.16,19354.84,5,Excellent
+2025-26,January,1,2026,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,21000,677.42,0.0,21000.0,4,Good
+2025-26,January,1,2026,Maansingh Sardar,Principal,Admin,Authoritative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,January,1,2026,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,January,1,2026,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,26.0,1.0,4.0,0.0,1.0,0.0,83.87,At Risk,13000,419.35,1677.4,11322.6,1,Very Poor
+2025-26,January,1,2026,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,31.0,30.5,0.5,0.0,0.0,1.0,0.0,98.39,At Risk,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,January,1,2026,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,27.0,1.0,3.0,0.0,0.0,0.0,87.1,Good,12000,387.1,1161.3,10838.7,4,Good
+2025-26,January,1,2026,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,612.9,0.0,19000.0,4,Good
+2025-26,January,1,2026,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,13000,419.35,0.0,13000.0,3,Average
+2025-26,January,1,2026,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,13000,419.35,0.0,13000.0,3,Average
+2025-26,January,1,2026,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,30.5,0.5,0.0,0.0,0.0,0.0,98.39,Good,12000,387.1,0.0,12000.0,1,Very Poor
+2025-26,January,1,2026,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,12000,387.1,0.0,12000.0,4,Good
+2025-26,January,1,2026,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,January,1,2026,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,387.1,0.0,12000.0,3,Average
+2025-26,January,1,2026,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,387.1,0.0,12000.0,2,Poor
+2025-26,January,1,2026,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,January,1,2026,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,February,2,2026,Archana Pathak,Sr. Teacher,Primary,Montessori,28.0,26.0,2.0,0.0,0.0,1.0,0.0,92.86,At Risk,20000,714.29,0.0,20000.0,4,Good
+2025-26,February,2,2026,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,28.0,27.0,1.0,0.0,0.0,0.0,0.0,96.43,Good,21000,750.0,0.0,21000.0,2,Poor
+2025-26,February,2,2026,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,28.0,27.0,0.0,1.0,0.0,1.0,0.0,96.43,At Risk,19000,678.57,678.57,18321.43,3,Average
+2025-26,February,2,2026,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,28.0,27.0,1.0,0.0,0.0,0.0,0.0,96.43,Good,20000,714.29,0.0,20000.0,5,Excellent
+2025-26,February,2,2026,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,28.0,28.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,22000,785.71,0.0,22000.0,5,Excellent
+2025-26,February,2,2026,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,28.0,24.5,1.0,2.5,0.0,0.0,0.0,87.5,Good,20000,714.29,1785.72,18214.28,5,Excellent
+2025-26,February,2,2026,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,28.0,28.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,750.0,0.0,21000.0,4,Good
+2025-26,February,2,2026,Maansingh Sardar,Principal,Admin,Authoritative,28.0,28.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1250.0,0.0,35000.0,3,Average
+2025-26,February,2,2026,Meena Gavande,Jr. Teacher,Primary,Collaborative,28.0,26.0,2.0,0.0,0.0,0.0,0.0,92.86,Good,12000,428.57,0.0,12000.0,3,Average
+2025-26,February,2,2026,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,28.0,24.5,1.0,2.5,0.0,2.0,0.0,87.5,At Risk,13000,464.29,1160.73,11839.27,1,Very Poor
+2025-26,February,2,2026,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,28.0,27.0,1.0,0.0,0.0,3.0,0.0,96.43,Poor,13000,464.29,0.0,13000.0,1,Very Poor
+2025-26,February,2,2026,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,28.0,26.0,1.0,1.0,0.0,1.0,0.0,92.86,At Risk,12000,428.57,428.57,11571.43,4,Good
+2025-26,February,2,2026,Renuka Kura,Sr. Teacher,Primary,Montessori,28.0,28.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,678.57,0.0,19000.0,4,Good
+2025-26,February,2,2026,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,28.0,25.5,2.0,0.5,0.0,1.0,0.0,91.07,At Risk,13000,464.29,232.14,12767.86,3,Average
+2025-26,February,2,2026,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,28.0,24.5,0.5,3.0,0.0,0.0,0.0,87.5,Good,13000,464.29,1392.87,11607.13,3,Average
+2025-26,February,2,2026,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,28.0,27.0,1.0,0.0,0.0,0.0,0.0,96.43,Good,12000,428.57,0.0,12000.0,1,Very Poor
+2025-26,February,2,2026,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,28.0,25.0,1.0,2.0,0.0,0.0,0.0,89.29,Good,12000,428.57,857.14,11142.86,4,Good
+2025-26,February,2,2026,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,28.0,27.0,1.0,0.0,0.0,0.0,0.0,96.43,Good,12000,428.57,0.0,12000.0,4,Good
+2025-26,February,2,2026,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,28.0,26.0,0.0,2.0,0.0,1.0,0.0,92.86,At Risk,12000,428.57,857.14,11142.86,3,Average
+2025-26,February,2,2026,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,28.0,24.0,4.0,0.0,0.0,0.0,0.0,85.71,Good,12000,428.57,0.0,12000.0,2,Poor
+2025-26,February,2,2026,Varsha Patil,Jr. Teacher,Primary,Montessori,28.0,24.0,4.0,0.0,0.0,0.0,0.0,85.71,Good,12000,428.57,0.0,12000.0,5,Excellent
+2025-26,February,2,2026,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,28.0,23.0,2.0,3.0,0.0,0.0,0.0,82.14,Good,13000,464.29,1392.87,11607.13,1,Very Poor
+2025-26,March,3,2026,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,March,3,2026,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,March,3,2026,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,28.5,0.0,2.5,0.0,0.0,0.0,91.94,Good,19000,612.9,1532.25,17467.75,3,Average
+2025-26,March,3,2026,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,March,3,2026,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,March,3,2026,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,28.5,1.0,1.5,0.0,0.0,0.0,91.94,Good,20000,645.16,967.74,19032.26,5,Excellent
+2025-26,March,3,2026,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,21000,677.42,0.0,21000.0,4,Good
+2025-26,March,3,2026,Maansingh Sardar,Principal,Admin,Authoritative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,March,3,2026,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,March,3,2026,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,28.5,1.0,1.5,0.0,2.0,0.0,91.94,At Risk,13000,419.35,629.03,12370.97,1,Very Poor
+2025-26,March,3,2026,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,31.0,10.0,0.0,21.0,0.0,0.0,0.0,32.26,Good,13000,419.35,8806.35,4193.65,1,Very Poor
+2025-26,March,3,2026,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,29.0,0.0,2.0,0.0,0.0,0.0,93.55,Good,12000,387.1,774.2,11225.8,4,Good
+2025-26,March,3,2026,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,612.9,0.0,19000.0,4,Good
+2025-26,March,3,2026,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,31.0,29.0,0.0,2.0,0.0,0.0,0.0,93.55,Good,13000,419.35,838.7,12161.3,3,Average
+2025-26,March,3,2026,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,30.0,0.0,1.0,0.0,0.0,0.0,96.77,Good,13000,419.35,419.35,12580.65,3,Average
+2025-26,March,3,2026,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,29.5,0.5,1.0,0.0,0.0,0.0,95.16,Good,12000,387.1,387.1,11612.9,1,Very Poor
+2025-26,March,3,2026,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,31.0,30.5,0.0,0.5,0.0,0.0,0.0,98.39,Good,12000,387.1,193.55,11806.45,4,Good
+2025-26,March,3,2026,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,March,3,2026,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,29.5,1.5,0.0,0.0,1.0,0.0,95.16,At Risk,12000,387.1,0.0,12000.0,3,Average
+2025-26,March,3,2026,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,387.1,0.0,12000.0,2,Poor
+2025-26,March,3,2026,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,March,3,2026,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,25.0,6.0,0.0,0.0,0.0,0.0,80.65,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,April,4,2026,Archana Pathak,Sr. Teacher,Primary,Montessori,30.0,28.5,1.5,0.0,0.0,0.0,0.0,95.0,Good,20000,666.67,0.0,20000.0,4,Good
+2025-26,April,4,2026,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,700.0,0.0,21000.0,2,Poor
+2025-26,April,4,2026,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,30.0,23.0,0.0,7.0,0.0,0.0,0.0,76.67,Good,19000,633.33,4433.31,14566.69,3,Average
+2025-26,April,4,2026,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,30.0,28.5,1.0,0.5,0.0,0.0,0.0,95.0,Good,20000,666.67,333.34,19666.66,5,Excellent
+2025-26,April,4,2026,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,22000,733.33,0.0,22000.0,5,Excellent
+2025-26,April,4,2026,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,30.0,28.0,0.0,2.0,0.0,0.0,0.0,93.33,Good,20000,666.67,1333.34,18666.66,5,Excellent
+2025-26,April,4,2026,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,30.0,26.5,3.5,0.0,0.0,0.0,0.0,88.33,Good,21000,700.0,0.0,21000.0,4,Good
+2025-26,April,4,2026,Maansingh Sardar,Principal,Admin,Authoritative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1166.67,0.0,35000.0,3,Average
+2025-26,April,4,2026,Meena Gavande,Jr. Teacher,Primary,Collaborative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,3,Average
+2025-26,April,4,2026,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,30.0,29.0,1.0,0.0,0.0,1.0,0.0,96.67,At Risk,13000,433.33,0.0,13000.0,1,Very Poor
+2025-26,April,4,2026,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,30.0,27.0,0.0,3.0,0.0,0.0,0.0,90.0,Good,12000,400.0,1200.0,10800.0,4,Good
+2025-26,April,4,2026,Renuka Kura,Sr. Teacher,Primary,Montessori,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,19000,633.33,0.0,19000.0,4,Good
+2025-26,April,4,2026,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,30.0,29.0,0.0,1.0,0.0,0.0,0.0,96.67,Good,13000,433.33,433.33,12566.67,3,Average
+2025-26,April,4,2026,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,30.0,20.0,0.0,10.0,0.0,0.0,0.0,66.67,Good,12000,400.0,4000.0,8000.0,1,Very Poor
+2025-26,April,4,2026,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,12000,400.0,0.0,12000.0,4,Good
+2025-26,April,4,2026,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,30.0,28.5,0.5,1.0,0.0,0.0,0.0,95.0,Good,12000,400.0,400.0,11600.0,3,Average
+2025-26,April,4,2026,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,30.0,28.0,0.5,1.5,0.0,0.0,0.0,93.33,Good,12000,400.0,600.0,11400.0,2,Poor
+2025-26,April,4,2026,Varsha Patil,Jr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,5,Excellent
+2025-26,April,4,2026,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,30.0,22.5,0.0,7.5,0.0,0.0,0.0,75.0,Good,13000,433.33,3249.98,9750.02,1,Very Poor
+2025-26,May,5,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,May,5,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,May,5,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,612.9,0.0,19000.0,3,Average
+2025-26,May,5,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,May,5,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,May,5,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,May,5,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,677.42,0.0,21000.0,4,Good
+2025-26,May,5,2025,Maansingh Sardar,Principal,Admin,Authoritative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,May,5,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,May,5,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,May,5,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,May,5,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,612.9,0.0,19000.0,4,Good
+2025-26,May,5,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,13000,419.35,0.0,13000.0,3,Average
+2025-26,May,5,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,1,Very Poor
+2025-26,May,5,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,May,5,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,May,5,2025,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,2,Poor
+2025-26,May,5,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,May,5,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,June,6,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,666.67,0.0,20000.0,4,Good
+2025-26,June,6,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,700.0,0.0,21000.0,2,Poor
+2025-26,June,6,2025,Bushra Naaz,Support Staff,Admin,N/A,30.0,28.0,2.0,0.0,0.0,1.0,0.0,93.33,At Risk,9000,300.0,0.0,9000.0,2,Poor
+2025-26,June,6,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,30.0,30.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,19000,633.33,0.0,19000.0,3,Average
+2025-26,June,6,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,20000,666.67,0.0,20000.0,5,Excellent
+2025-26,June,6,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,30.0,25.0,5.0,0.0,0.0,0.0,0.0,83.33,Good,22000,733.33,0.0,22000.0,5,Excellent
+2025-26,June,6,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,30.0,24.0,6.0,0.0,0.0,0.0,0.0,80.0,Good,20000,666.67,0.0,20000.0,5,Excellent
+2025-26,June,6,2025,Jasvindersingh,Jr. Teacher,Secondary,Direct Instruction,30.0,15.5,1.5,13.0,0.0,0.0,0.0,51.67,Good,13000,433.33,5633.29,7366.71,2,Poor
+2025-26,June,6,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,30.0,28.5,1.5,0.0,0.0,0.0,0.0,95.0,Good,21000,700.0,0.0,21000.0,4,Good
+2025-26,June,6,2025,Maansingh Sardar,Principal,Admin,Authoritative,30.0,27.0,3.0,0.0,0.0,0.0,0.0,90.0,Good,35000,1166.67,0.0,35000.0,3,Average
+2025-26,June,6,2025,Md. Irfan Lulaniya,Jr. Teacher,Secondary,Collaborative,30.0,25.0,2.0,3.0,0.0,0.0,0.0,83.33,Good,14000,466.67,1400.01,12599.99,3,Average
+2025-26,June,6,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,3,Average
+2025-26,June,6,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,30.0,17.0,2.0,11.0,0.0,0.0,0.0,56.67,Good,13000,433.33,4766.63,8233.37,1,Very Poor
+2025-26,June,6,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,30.0,29.5,0.5,0.0,0.0,1.0,0.0,98.33,At Risk,13000,433.33,0.0,13000.0,1,Very Poor
+2025-26,June,6,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,30.0,29.0,0.0,1.0,0.0,0.0,0.0,96.67,Good,12000,400.0,400.0,11600.0,4,Good
+2025-26,June,6,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,633.33,0.0,19000.0,4,Good
+2025-26,June,6,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,30.0,22.0,8.0,0.0,0.0,0.0,0.0,73.33,Good,13000,433.33,0.0,13000.0,3,Average
+2025-26,June,6,2025,Sheikh Ejaj,Support Staff,Admin,N/A,30.0,29.0,1.0,0.0,0.0,1.0,0.0,96.67,At Risk,9000,300.0,0.0,9000.0,3,Average
+2025-26,June,6,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,30.0,26.0,2.0,2.0,0.0,0.0,0.0,86.67,Good,13000,433.33,866.66,12133.34,3,Average
+2025-26,June,6,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,30.0,23.0,2.0,5.0,0.0,0.0,0.0,76.67,Good,12000,400.0,2000.0,10000.0,1,Very Poor
+2025-26,June,6,2025,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,30.0,30.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,400.0,0.0,12000.0,4,Good
+2025-26,June,6,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,4,Good
+2025-26,June,6,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,30.0,29.5,0.5,0.0,0.0,0.0,0.0,98.33,Good,12000,400.0,0.0,12000.0,3,Average
+2025-26,June,6,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,5,Excellent
+2025-26,June,6,2025,Vitthal Pawar,Support Staff,Admin,N/A,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,8500,283.33,0.0,8500.0,3,Average
+2025-26,June,6,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,30.0,25.5,2.0,2.5,0.0,1.0,0.0,85.0,At Risk,13000,433.33,1083.32,11916.68,1,Very Poor
+2025-26,July,7,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,July,7,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,July,7,2025,Bushra Naaz,Support Staff,Admin,N/A,31.0,29.0,1.0,1.0,0.0,0.0,0.0,93.55,Good,9000,290.32,290.32,8709.68,2,Poor
+2025-26,July,7,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,28.0,2.0,1.0,0.0,0.0,0.0,90.32,Good,19000,612.9,612.9,18387.1,3,Average
+2025-26,July,7,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,July,7,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,July,7,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,25.0,6.0,0.0,0.0,0.0,0.0,80.65,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,July,7,2025,Jasvindersingh,Jr. Teacher,Secondary,Direct Instruction,31.0,27.5,2.0,1.5,0.0,0.0,0.0,88.71,Good,13000,419.35,629.03,12370.97,2,Poor
+2025-26,July,7,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,21000,677.42,0.0,21000.0,4,Good
+2025-26,July,7,2025,Maansingh Sardar,Principal,Admin,Authoritative,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,July,7,2025,Md. Irfan Lulaniya,Jr. Teacher,Secondary,Collaborative,31.0,25.5,2.0,3.5,0.0,0.0,0.0,82.26,Good,14000,451.61,1580.64,12419.36,3,Average
+2025-26,July,7,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,July,7,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,July,7,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,31.0,29.5,1.5,0.0,0.0,0.0,0.0,95.16,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,July,7,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,July,7,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,19000,612.9,0.0,19000.0,4,Good
+2025-26,July,7,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,31.0,27.5,3.5,0.0,0.0,0.0,0.0,88.71,Good,13000,419.35,0.0,13000.0,3,Average
+2025-26,July,7,2025,Sheikh Ejaj,Support Staff,Admin,N/A,31.0,25.5,1.0,1.5,1.0,0.0,3.0,82.26,Poor,9000,290.32,435.48,8564.52,3,Average
+2025-26,July,7,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,23.0,2.0,6.0,0.0,0.0,0.0,74.19,Good,13000,419.35,2516.1,10483.9,3,Average
+2025-26,July,7,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,22.5,2.0,6.5,0.0,0.0,0.0,72.58,Good,12000,387.1,2516.15,9483.85,1,Very Poor
+2025-26,July,7,2025,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,July,7,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,July,7,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,July,7,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,July,7,2025,Vitthal Pawar,Support Staff,Admin,N/A,31.0,29.5,1.5,0.0,0.0,0.0,0.0,95.16,Good,8500,274.19,0.0,8500.0,3,Average
+2025-26,July,7,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,27.0,2.0,2.0,0.0,1.0,0.0,87.1,At Risk,13000,419.35,838.7,12161.3,1,Very Poor
+2025-26,August,8,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,August,8,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,August,8,2025,Bushra Naaz,Support Staff,Admin,N/A,31.0,2.0,0.0,29.0,0.0,0.0,0.0,6.45,Good,9000,290.32,8419.28,580.72,2,Poor
+2025-26,August,8,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,19000,612.9,0.0,19000.0,3,Average
+2025-26,August,8,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,26.0,2.0,3.0,0.0,1.0,0.0,83.87,At Risk,20000,645.16,1935.48,18064.52,5,Excellent
+2025-26,August,8,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,August,8,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,28.0,3.0,0.0,0.0,0.0,0.0,90.32,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,August,8,2025,Jasvindersingh,Jr. Teacher,Secondary,Direct Instruction,31.0,26.5,1.5,3.0,0.0,1.0,0.0,85.48,At Risk,13000,419.35,1258.05,11741.95,2,Poor
+2025-26,August,8,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,30.5,0.5,0.0,0.0,0.0,0.0,98.39,Good,21000,677.42,0.0,21000.0,4,Good
+2025-26,August,8,2025,Maansingh Sardar,Principal,Admin,Authoritative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,August,8,2025,Md. Irfan Lulaniya,Jr. Teacher,Secondary,Collaborative,31.0,23.0,0.0,8.0,0.0,0.0,0.0,74.19,Good,14000,451.61,3612.88,10387.12,3,Average
+2025-26,August,8,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,August,8,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,26.0,0.0,5.0,0.0,0.0,0.0,83.87,Good,13000,419.35,2096.75,10903.25,1,Very Poor
+2025-26,August,8,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,August,8,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,August,8,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,19000,612.9,0.0,19000.0,4,Good
+2025-26,August,8,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,31.0,30.5,0.5,0.0,0.0,0.0,0.0,98.39,Good,13000,419.35,0.0,13000.0,3,Average
+2025-26,August,8,2025,Sheikh Ejaj,Support Staff,Admin,N/A,31.0,12.5,0.0,18.5,0.0,0.0,0.0,40.32,Good,9000,290.32,5370.92,3629.08,3,Average
+2025-26,August,8,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,28.5,0.0,2.5,0.0,0.0,0.0,91.94,Good,13000,419.35,1048.38,11951.62,3,Average
+2025-26,August,8,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,14.0,2.0,15.0,0.0,0.0,0.0,45.16,Good,12000,387.1,5806.5,6193.5,1,Very Poor
+2025-26,August,8,2025,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,31.0,22.5,2.0,6.5,0.0,1.0,0.0,72.58,At Risk,12000,387.1,2516.15,9483.85,4,Good
+2025-26,August,8,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,August,8,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,28.5,1.0,1.5,0.0,2.0,0.0,91.94,At Risk,12000,387.1,580.65,11419.35,3,Average
+2025-26,August,8,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,August,8,2025,Vitthal Pawar,Support Staff,Admin,N/A,31.0,20.0,0.0,11.0,0.0,0.0,0.0,64.52,Good,8500,274.19,3016.09,5483.91,3,Average
+2025-26,August,8,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,29.5,1.5,0.0,0.0,1.0,0.0,95.16,At Risk,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,September,9,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,20000,666.67,0.0,20000.0,4,Good
+2025-26,September,9,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,21000,700.0,0.0,21000.0,2,Poor
+2025-26,September,9,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,30.0,27.0,2.0,1.0,0.0,1.0,0.0,90.0,At Risk,19000,633.33,633.33,18366.67,3,Average
+2025-26,September,9,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,20000,666.67,0.0,20000.0,5,Excellent
+2025-26,September,9,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,22000,733.33,0.0,22000.0,5,Excellent
+2025-26,September,9,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,30.0,27.5,2.5,0.0,0.0,0.0,0.0,91.67,Good,20000,666.67,0.0,20000.0,5,Excellent
+2025-26,September,9,2025,Jasvindersingh,Jr. Teacher,Secondary,Direct Instruction,30.0,29.5,0.5,0.0,0.0,1.0,0.0,98.33,At Risk,13000,433.33,0.0,13000.0,2,Poor
+2025-26,September,9,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,30.0,29.5,0.5,0.0,0.0,0.0,0.0,98.33,Good,21000,700.0,0.0,21000.0,4,Good
+2025-26,September,9,2025,Maansingh Sardar,Principal,Admin,Authoritative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1166.67,0.0,35000.0,3,Average
+2025-26,September,9,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,3,Average
+2025-26,September,9,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,30.0,28.0,2.0,0.0,0.0,0.0,0.0,93.33,Good,13000,433.33,0.0,13000.0,1,Very Poor
+2025-26,September,9,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,30.0,28.5,1.5,0.0,0.0,0.0,0.0,95.0,Good,13000,433.33,0.0,13000.0,1,Very Poor
+2025-26,September,9,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,4,Good
+2025-26,September,9,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,633.33,0.0,19000.0,4,Good
+2025-26,September,9,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,30.0,29.0,1.0,0.0,0.0,1.0,0.0,96.67,At Risk,13000,433.33,0.0,13000.0,3,Average
+2025-26,September,9,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,30.0,29.5,0.5,0.0,0.0,0.0,2.0,98.33,At Risk,13000,433.33,0.0,13000.0,3,Average
+2025-26,September,9,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,1,Very Poor
+2025-26,September,9,2025,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,30.0,29.0,1.0,0.0,0.0,1.0,0.0,96.67,At Risk,12000,400.0,0.0,12000.0,4,Good
+2025-26,September,9,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,12000,400.0,0.0,12000.0,4,Good
+2025-26,September,9,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,30.0,25.0,2.0,3.0,0.0,0.0,0.0,83.33,Good,12000,400.0,1200.0,10800.0,3,Average
+2025-26,September,9,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,5,Excellent
+2025-26,September,9,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,30.0,27.5,0.0,2.5,0.0,2.0,0.0,91.67,At Risk,13000,433.33,1083.32,11916.68,1,Very Poor
+2025-26,October,10,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,30.5,0.5,0.0,0.0,0.0,0.0,98.39,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,October,10,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,October,10,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,30.0,0.0,1.0,0.0,0.0,0.0,96.77,Good,19000,612.9,612.9,18387.1,3,Average
+2025-26,October,10,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,October,10,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,October,10,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,29.0,2.0,0.0,0.0,0.0,0.0,93.55,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,October,10,2025,Jasvindersingh,Jr. Teacher,Secondary,Direct Instruction,31.0,28.5,0.0,2.5,0.0,2.0,2.0,91.94,Poor,13000,419.35,1048.38,11951.62,2,Poor
+2025-26,October,10,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,21000,677.42,0.0,21000.0,4,Good
+2025-26,October,10,2025,Maansingh Sardar,Principal,Admin,Authoritative,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,October,10,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,October,10,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,30.5,0.5,0.0,0.0,0.0,0.0,98.39,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,October,10,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,October,10,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,387.1,0.0,12000.0,4,Good
+2025-26,October,10,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,19000,612.9,0.0,19000.0,4,Good
+2025-26,October,10,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,13000,419.35,0.0,13000.0,3,Average
+2025-26,October,10,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,13000,419.35,0.0,13000.0,3,Average
+2025-26,October,10,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,387.1,0.0,12000.0,1,Very Poor
+2025-26,October,10,2025,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,31.0,30.5,0.0,0.5,0.0,0.0,0.0,98.39,Good,12000,387.1,193.55,11806.45,4,Good
+2025-26,October,10,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,4,Good
+2025-26,October,10,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,30.0,0.0,1.0,0.0,1.0,0.0,96.77,At Risk,12000,387.1,387.1,11612.9,3,Average
+2025-26,October,10,2025,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,2,Poor
+2025-26,October,10,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,October,10,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,29.5,0.0,1.5,0.0,0.0,0.0,95.16,Good,13000,419.35,629.03,12370.97,1,Very Poor
+2025-26,November,11,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,20000,666.67,0.0,20000.0,4,Good
+2025-26,November,11,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,21000,700.0,0.0,21000.0,2,Poor
+2025-26,November,11,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,30.0,25.5,0.0,4.5,0.0,2.0,0.0,85.0,At Risk,19000,633.33,2849.98,16150.02,3,Average
+2025-26,November,11,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,30.0,25.0,1.0,4.0,0.0,1.0,0.0,83.33,At Risk,20000,666.67,2666.68,17333.32,5,Excellent
+2025-26,November,11,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,30.0,26.0,4.0,0.0,0.0,0.0,0.0,86.67,Good,22000,733.33,0.0,22000.0,5,Excellent
+2025-26,November,11,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,20000,666.67,0.0,20000.0,5,Excellent
+2025-26,November,11,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,30.0,26.0,4.0,0.0,0.0,0.0,0.0,86.67,Good,21000,700.0,0.0,21000.0,4,Good
+2025-26,November,11,2025,Maansingh Sardar,Principal,Admin,Authoritative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,35000,1166.67,0.0,35000.0,3,Average
+2025-26,November,11,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,3,Average
+2025-26,November,11,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,30.0,25.0,0.5,4.5,0.0,0.0,0.0,83.33,Good,13000,433.33,1949.98,11050.02,1,Very Poor
+2025-26,November,11,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,30.0,30.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,13000,433.33,0.0,13000.0,1,Very Poor
+2025-26,November,11,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,30.0,27.5,0.5,2.0,0.0,0.0,0.0,91.67,Good,12000,400.0,800.0,11200.0,4,Good
+2025-26,November,11,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,19000,633.33,0.0,19000.0,4,Good
+2025-26,November,11,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,30.0,28.5,1.0,0.5,0.0,1.0,0.0,95.0,At Risk,13000,433.33,216.66,12783.34,3,Average
+2025-26,November,11,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,30.0,24.5,1.0,4.5,0.0,0.0,0.0,81.67,Good,13000,433.33,1949.98,11050.02,3,Average
+2025-26,November,11,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,30.0,16.0,0.0,14.0,0.0,0.0,0.0,53.33,Good,12000,400.0,5600.0,6400.0,1,Very Poor
+2025-26,November,11,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,12000,400.0,0.0,12000.0,4,Good
+2025-26,November,11,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,30.0,28.5,0.5,1.0,0.0,1.0,0.0,95.0,At Risk,12000,400.0,400.0,11600.0,3,Average
+2025-26,November,11,2025,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,30.0,29.0,1.0,0.0,0.0,0.0,0.0,96.67,Good,12000,400.0,0.0,12000.0,2,Poor
+2025-26,November,11,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,30.0,30.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,400.0,0.0,12000.0,5,Excellent
+2025-26,November,11,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,30.0,28.0,0.0,2.0,0.0,1.0,1.0,93.33,At Risk,13000,433.33,866.66,12133.34,1,Very Poor
+2025-26,December,12,2025,Archana Pathak,Sr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,20000,645.16,0.0,20000.0,4,Good
+2025-26,December,12,2025,Baljeetsingh Shahu,Sr. Teacher,Secondary,Inquiry-Based,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,21000,677.42,0.0,21000.0,2,Poor
+2025-26,December,12,2025,Gagandeep Kaur Birdi,Sr. Teacher,Primary,Inquiry-Based,31.0,19.0,1.0,11.0,0.0,1.0,0.0,61.29,At Risk,19000,612.9,6741.9,12258.1,3,Average
+2025-26,December,12,2025,Gurdeep Kaur,Sr. Teacher,Primary,Montessori,31.0,29.0,0.0,2.0,0.0,1.0,0.0,93.55,At Risk,20000,645.16,1290.32,18709.68,5,Excellent
+2025-26,December,12,2025,Harjeetsingh Sukhmani,Sr. Teacher,Secondary,Collaborative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,22000,709.68,0.0,22000.0,5,Excellent
+2025-26,December,12,2025,Jaspalsingh Sodhi,Sr. Teacher,Secondary,Direct Instruction,31.0,24.0,7.0,0.0,0.0,0.0,0.0,77.42,Good,20000,645.16,0.0,20000.0,5,Excellent
+2025-26,December,12,2025,Jyotindersingh Aulakh,Sr. Teacher,Secondary,Authoritative,31.0,25.5,5.5,0.0,0.0,0.0,0.0,82.26,Good,21000,677.42,0.0,21000.0,4,Good
+2025-26,December,12,2025,Maansingh Sardar,Principal,Admin,Authoritative,31.0,28.0,3.0,0.0,0.0,0.0,0.0,90.32,Good,35000,1129.03,0.0,35000.0,3,Average
+2025-26,December,12,2025,Meena Gavande,Jr. Teacher,Primary,Collaborative,31.0,30.0,1.0,0.0,0.0,0.0,0.0,96.77,Good,12000,387.1,0.0,12000.0,3,Average
+2025-26,December,12,2025,Pragya Rathi,Jr. Teacher,Secondary,Direct Instruction,31.0,22.5,1.0,7.5,0.0,2.0,0.0,72.58,At Risk,13000,419.35,3145.12,9854.88,1,Very Poor
+2025-26,December,12,2025,Pratibha Potdar,Jr. Teacher,Primary,Direct Instruction,31.0,30.0,1.0,0.0,0.0,1.0,0.0,96.77,At Risk,13000,419.35,0.0,13000.0,1,Very Poor
+2025-26,December,12,2025,Priyanka Paikrao,Jr. Teacher,Primary,Montessori,31.0,27.5,1.0,2.5,0.0,0.0,0.0,88.71,Good,12000,387.1,967.75,11032.25,4,Good
+2025-26,December,12,2025,Renuka Kura,Sr. Teacher,Primary,Montessori,31.0,29.0,2.0,0.0,0.0,1.0,0.0,93.55,At Risk,19000,612.9,0.0,19000.0,4,Good
+2025-26,December,12,2025,Shailesh Kamble,Jr. Teacher,Secondary,Inquiry-Based,31.0,29.5,0.0,1.5,0.0,1.0,0.0,95.16,At Risk,13000,419.35,629.03,12370.97,3,Average
+2025-26,December,12,2025,Shudhodhan Sontakke,Jr. Teacher,Secondary,Collaborative,31.0,29.5,1.0,0.5,0.0,1.0,0.0,95.16,At Risk,13000,419.35,209.68,12790.32,3,Average
+2025-26,December,12,2025,Sukhbeer Kaur,Jr. Teacher,Primary,Inquiry-Based,31.0,30.0,0.0,1.0,0.0,0.0,0.0,96.77,Good,12000,387.1,387.1,11612.9,1,Very Poor
+2025-26,December,12,2025,Sukhraj Kaur Gill,Jr. Teacher,Primary,Collaborative,31.0,15.5,0.5,1.0,0.0,0.0,0.0,50.0,Good,12000,387.1,387.1,11612.9,4,Good
+2025-26,December,12,2025,Sumita Shembole,Jr. Teacher,Primary,Direct Instruction,31.0,28.0,1.0,2.0,0.0,0.0,0.0,90.32,Good,12000,387.1,774.2,11225.8,4,Good
+2025-26,December,12,2025,Sunitha Poladwar,Jr. Teacher,Primary,Inquiry-Based,31.0,21.0,1.0,9.0,0.0,1.0,0.0,67.74,At Risk,12000,387.1,3483.9,8516.1,3,Average
+2025-26,December,12,2025,Vaishai Landge,Jr. Teacher,Primary,Inquiry-Based,31.0,31.0,0.0,0.0,0.0,1.0,0.0,100.0,At Risk,12000,387.1,0.0,12000.0,2,Poor
+2025-26,December,12,2025,Varsha Patil,Jr. Teacher,Primary,Montessori,31.0,31.0,0.0,0.0,0.0,0.0,0.0,100.0,Good,12000,387.1,0.0,12000.0,5,Excellent
+2025-26,December,12,2025,Wasim Jagirdar,Jr. Teacher,Secondary,Collaborative,31.0,23.0,1.0,7.0,0.0,1.0,0.0,74.19,At Risk,13000,419.35,2935.45,10064.55,1,Very Poor
